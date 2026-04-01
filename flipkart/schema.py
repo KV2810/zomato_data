@@ -16,7 +16,6 @@
     "total_reviews": "integer"
   },
   "availability": {
-    "in_stock": "boolean",
     "cod_available": "boolean",
     "delivery_available": "boolean"
   },
@@ -25,23 +24,10 @@
     "seller_rating": "float"
   },
   "product_media": {
-    "images": ["string"],
-    "videos": ["string"]
+    "images": ["string"]
   },
   "product_details": {
-    "description": "string",
-    "highlights": ["string"],
-    "specifications": [
-      {
-        "title": "string",
-        "value": "string"
-      }
-    ]
+    "description": "string"
   },
-  "offers": [
-    {
-      "title": "string",
-      "description": "string"
-    }
-  ]
+  
 }
