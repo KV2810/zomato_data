@@ -1,0 +1,25 @@
+{
+    "product_id": "MLKHFR86C8QNQPT8",
+    "product_name": null,
+    "product_url": "https://www.flipkart.com/amul-gold-milk/p/itm44f0b035724de",
+    "brand": null,
+    "price": null,
+    "rating": null,
+    "review": null,
+    "availability": {
+        "cod_available": false,
+        "delivery_available": false
+    },
+    "seller_info": {
+        "seller_name": null,
+        "seller_rating": 0.0
+    },
+    "product_media": {
+        "images": [
+            "http://rukmini1.flixcart.com/image/500/500/xif0q/milk/v/y/k/500-gold-pouch-plain-amul-original-imah2hrgfkuanznh.jpeg"
+        ]
+    },
+    "product_details": {
+        "description": "Buy {TITLE} for Rs.{PRICE} online. {TITLE} at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee."
+    }
+}

@@ -1,0 +1,666 @@
+{
+    "RESPONSE": {
+        "pageMeta": {
+            "baseImpressionId": "e021a070-9b66-4d1f-a9d3-ea2d668ddab2",
+            "pageNotChanged": false,
+            "refreshPage": false,
+            "hasErrorWidget": false,
+            "prefetchPage": {
+                "enablePrefetch": false
+            },
+            "parentReqId": "e021a070-9b66-4d1f-a9d3-ea2d668ddab2",
+            "widgetFetchDelayMs": 0,
+            "reusePrevPageFoldContext": true,
+            "mergeTrackingContextForAllPageFold": false
+        },
+        "slots": [
+            {
+                "slotType": "WIDGET",
+                "id": 38,
+                "parentId": 0,
+                "layoutParams": {
+                    "orientation": "",
+                    "widgetWidth": 12,
+                    "widgetHeight": 150
+                },
+                "elementId": "38-ATLAS_WIDGET",
+                "widget": {
+                    "type": "ATLAS_WIDGET",
+                    "viewType": "default_fk_hp_hpw_regular",
+                    "data": {
+                        "dlsData": {
+                            "trackerData_0": {
+                                "properties": {},
+                                "visible": true
+                            },
+                            "carouselData_0": {
+                                "properties": {
+                                    "overrideTokens": {
+                                        "autoSwipeContentDuration": 3000,
+                                        "showIndicator": true,
+                                        "loop": true
+                                    }
+                                },
+                                "visible": true,
+                                "value": [
+                                    {
+                                        "visible": true,
+                                        "value": {
+                                            "trackerData_0": {
+                                                "tracking": {
+                                                    "marketPlace": "FLIPKART",
+                                                    "contentId": "LV7I85999C6K",
+                                                    "locale": "en",
+                                                    "otracker1": "pp_atlas_rich_carousel_PINNED_neo/merchandising_NA_ATLAS_RICH_CAROUSEL_CENTER_CYCLIC_DOTS_ON_CONTENT_3_richBannerCard_cc_1_view-all",
+                                                    "impressionId": "M_e021a070-9b66-4d1f-a9d3-ea2d668ddab2_38.LV7I85999C6K",
+                                                    "dataKey": "38.richBannerCard.ATLAS_RICH_CAROUSEL",
+                                                    "pageType": "pp",
+                                                    "fetchId": "PP.7f5cceff-ddb7-4eed-bed7-98206b0b43ca.e021a070-9b66-4d1f-a9d3-ea2d668ddab2",
+                                                    "contextType": "page",
+                                                    "widgetKey": "38.richBannerCard.ATLAS_RICH_CAROUSEL",
+                                                    "moduleId": "neo/merchandising",
+                                                    "contentType": "richBannerCard",
+                                                    "productId": "JWSG8STEREUJVNUE",
+                                                    "otracker": "pp_atlas_rich_carousel_1_38.richBannerCard.ATLAS_RICH_CAROUSEL_LV7I85999C6K",
+                                                    "widgetType": "atlas_rich_carousel",
+                                                    "findingMethod": "neo/merchandising",
+                                                    "widgetCategory": "PINNED",
+                                                    "viewType": "ATLAS_RICH_CAROUSEL_CENTER_CYCLIC_DOTS_ON_CONTENT_3",
+                                                    "position": "1",
+                                                    "module_position": "1"
+                                                },
+                                                "properties": {},
+                                                "visible": true
+                                            },
+                                            "box_0": {
+                                                "action": {
+                                                    "screenType": "multiWidgetPage",
+                                                    "type": "NAVIGATION",
+                                                    "originalUrl": "/supercoin?param=765678",
+                                                    "url": "/supercoin?param=765678",
+                                                    "params": {
+                                                        "valid": true,
+                                                        "screenName": "COIN_ZONE"
+                                                    },
+                                                    "loginType": "LOGIN_NOT_REQUIRED",
+                                                    "tracking": {
+                                                        "marketPlace": "FLIPKART",
+                                                        "contentId": "LV7I85999C6K",
+                                                        "locale": "en",
+                                                        "otracker1": "pp_atlas_rich_carousel_PINNED_neo/merchandising_NA_ATLAS_RICH_CAROUSEL_CENTER_CYCLIC_DOTS_ON_CONTENT_3_richBannerCard_cc_1_view-all",
+                                                        "impressionId": "M_e021a070-9b66-4d1f-a9d3-ea2d668ddab2_38.LV7I85999C6K",
+                                                        "dataKey": "38.richBannerCard.ATLAS_RICH_CAROUSEL",
+                                                        "pageType": "pp",
+                                                        "fetchId": "PP.7f5cceff-ddb7-4eed-bed7-98206b0b43ca.e021a070-9b66-4d1f-a9d3-ea2d668ddab2",
+                                                        "contextType": "page",
+                                                        "widgetKey": "38.richBannerCard.ATLAS_RICH_CAROUSEL",
+                                                        "moduleId": "neo/merchandising",
+                                                        "contentType": "richBannerCard",
+                                                        "productId": "JWSG8STEREUJVNUE",
+                                                        "otracker": "pp_atlas_rich_carousel_1_38.richBannerCard.ATLAS_RICH_CAROUSEL_LV7I85999C6K",
+                                                        "widgetType": "atlas_rich_carousel",
+                                                        "findingMethod": "neo/merchandising",
+                                                        "widgetCategory": "PINNED",
+                                                        "viewType": "ATLAS_RICH_CAROUSEL_CENTER_CYCLIC_DOTS_ON_CONTENT_3",
+                                                        "position": "1",
+                                                        "module_position": "1"
+                                                    },
+                                                    "interactionType": "SCALE_DOWN",
+                                                    "interactionConfig": {
+                                                        "scaleDown": true
+                                                    }
+                                                },
+                                                "properties": {
+                                                    "overrideTokens": {
+                                                        "overflow": "hidden",
+                                                        "borderRadius": 16,
+                                                        "mr": "s6",
+                                                        "mt": "s5",
+                                                        "ml": "s6"
+                                                    }
+                                                },
+                                                "visible": true
+                                            },
+                                            "atomData_0": {
+                                                "properties": {},
+                                                "visible": true,
+                                                "value": {
+                                                    "dynamicImageUrl": "https://rukminim1.flixcart.com/fk-p-flap/{@width}/{@height}/image/58f7c26ceed824de.jpg?q={@quality}",
+                                                    "aspectRatio": "82:19"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "tracking": {
+                        "otracker": "pp_atlas_rich_carousel_1_38.richBannerCard.ATLAS_RICH_CAROUSEL",
+                        "locale": "en",
+                        "otracker1": "pp_atlas_rich_carousel_PINNED_neo/merchandising_NA_ATLAS_RICH_CAROUSEL_CENTER_CYCLIC_DOTS_ON_CONTENT_3_wc_view-all",
+                        "widgetType": "atlas_rich_carousel",
+                        "findingMethod": "neo/merchandising",
+                        "impressionId": "M_e021a070-9b66-4d1f-a9d3-ea2d668ddab2_38",
+                        "dataKey": "38.richBannerCard.ATLAS_RICH_CAROUSEL",
+                        "pageType": "pp",
+                        "fetchId": "PP.7f5cceff-ddb7-4eed-bed7-98206b0b43ca.e021a070-9b66-4d1f-a9d3-ea2d668ddab2",
+                        "widgetCategory": "PINNED",
+                        "contextType": "page",
+                        "viewType": "ATLAS_RICH_CAROUSEL_CENTER_CYCLIC_DOTS_ON_CONTENT_3",
+                        "widgetKey": "38.richBannerCard.ATLAS_RICH_CAROUSEL",
+                        "position": "1",
+                        "moduleId": "neo/merchandising",
+                        "contentType": "contentCollection",
+                        "module_position": "1"
+                    },
+                    "widgetName": "ATLAS_RICH_CAROUSEL_CENTER_CYCLIC_DOTS_ON_CONTENT_3",
+                    "params": {},
+                    "omnitureTracking": {},
+                    "serverTracking": {},
+                    "widgetType": "ATLAS_WIDGET",
+                    "layoutName": "default_fk_hp_hpw_regular",
+                    "layoutProperties": {}
+                },
+                "hasWidgetDataChanged": true,
+                "dataId": "1329388152",
+                "ttl": 3000,
+                "paginatedWidget": true
+            },
+            {
+                "slotType": "WIDGET",
+                "id": 43,
+                "parentId": 0,
+                "layoutParams": {
+                    "orientation": "",
+                    "widgetWidth": 12,
+                    "widgetHeight": 150
+                },
+                "elementId": "43-ATLAS_WIDGET",
+                "widget": {
+                    "type": "ATLAS_WIDGET",
+                    "viewType": "sticker",
+                    "data": {
+                        "dlsData": {
+                            "box_0": {
+                                "properties": {},
+                                "visible": true
+                            }
+                        }
+                    },
+                    "tracking": {
+                        "otracker": "pp_atlas_sticker_43.ATLAS_STICKER.ATLAS_STICKER",
+                        "locale": "en",
+                        "otracker1": "pp_atlas_sticker_WHITELISTED_NA_NA_ATLAS_STICKER_wc_view-all",
+                        "widgetType": "atlas_sticker",
+                        "impressionId": "a878abe7-f317-4285-e47d-663a0acc7ac4",
+                        "dataKey": "43.ATLAS_STICKER.ATLAS_STICKER",
+                        "pageType": "pp",
+                        "fetchId": "PP.7f5cceff-ddb7-4eed-bed7-98206b0b43ca.e021a070-9b66-4d1f-a9d3-ea2d668ddab2",
+                        "widgetCategory": "WHITELISTED",
+                        "contextType": "page",
+                        "viewType": "ATLAS_STICKER",
+                        "widgetKey": "43.ATLAS_STICKER.ATLAS_STICKER",
+                        "contentType": "contentCollection"
+                    },
+                    "widgetName": "ATLAS_STICKER",
+                    "params": {
+                        "slotId": 43
+                    },
+                    "properties": {
+                        "separator": false,
+                        "showSubWidgetData": false
+                    },
+                    "sharedData": {},
+                    "omnitureTracking": {},
+                    "serverTracking": {},
+                    "widgetType": "ATLAS_WIDGET",
+                    "layoutName": "sticker",
+                    "layoutProperties": {}
+                },
+                "hasWidgetDataChanged": true,
+                "dataId": "-329419288",
+                "ttl": 3000
+            }
+        ],
+        "pageData": {
+            "layoutParams": {
+                "theme": "light",
+                "backgroundColor": "#F1F2F4",
+                "layoutKey": "oneView",
+                "hideActionBar": true,
+                "orientation": "",
+                "themeDetails": {
+                    "themeId": "v3-fk-theme"
+                },
+                "layoutTtl": 300000
+            },
+            "pageTTL": 300000,
+            "backTTL": 300000,
+            "hardTTL": 2147483647,
+            "pageTitle": "Clone of BGMH Atlas PP",
+            "pageId": "clone-produ-c3795",
+            "pageLevelSlots": {},
+            "pageContext": {
+                "type": "ProductPageContext",
+                "bu": "ProductPageContext",
+                "mallSelectionMode": "ProductPageContext",
+                "productId": "MLKHFR86C8QNQPT8",
+                "collapseSections": false,
+                "multipleMediaPresent": false,
+                "listingId": "LSTMLKHFR86C8QNQPT8LHIQQB",
+                "trackingDataV2": {
+                    "preferredSellerWSR": false,
+                    "wsrSellerPresent": false,
+                    "visualBrowseEnabled": false,
+                    "serviceable": false,
+                    "faAvailable": false,
+                    "nbfcAvailable": false,
+                    "paeAvailable": false,
+                    "bnplAvailable": false,
+                    "prexoAvailable": false,
+                    "listingPreserved": false,
+                    "fasterDeliveryAvailable": false,
+                    "videoAvailable": false,
+                    "multipleDeliveryAvailable": false,
+                    "abbAvailable": false,
+                    "digitalAvailable": false,
+                    "tdOffersAvailable": false,
+                    "listingId": "LSTMLKHFR86C8QNQPT8LHIQQB",
+                    "sellerCount": 0,
+                    "sellerRating": 0.0,
+                    "fbfAvailable": false,
+                    "preBookAvailable": false,
+                    "codAvailable": false,
+                    "colorPickerAvailable": false
+                },
+                "fetchId": "e021a070-9b66-4d1f-a9d3-ea2d668ddab2.MLKHFR86C8QNQPT8",
+                "enableOfferTag": false,
+                "isNewUser": true,
+                "faAvailable": false,
+                "isFaAvailable": false
+            },
+            "trackingContext": {
+                "pageName": "pp",
+                "navigationalPageName": "pp",
+                "navigationalPageType": "pp",
+                "pageType": "pp",
+                "tracking": {
+                    "eVar139": "BLUE",
+                    "eVar181": "BLUE",
+                    "loginStatus": "logout"
+                },
+                "meta": {
+                    "slaInSec": 493,
+                    "storeId": "ben_194_wh_hl_01",
+                    "hlIds": "ben_194_wh_hl_01",
+                    "sMode": "BLUE"
+                }
+            },
+            "seoData": {
+                "seo": {
+                    "relAlternateMobile": "",
+                    "redirectUrl": {
+                        "incorrectUrl": false
+                    },
+                    "keywords": "{TITLE} Price, {TITLE}, Buy {TITLE} online",
+                    "noIndexSeo": false,
+                    "ogTitle": "{TITLE} Price in India - Buy {TITLE} online at Flipkart.com",
+                    "canonical": "https://www.flipkart.com/amul-gold-milk/p/itm44f0b035724de",
+                    "title": "{TITLE} Price in India - Buy {TITLE} online at Flipkart.com",
+                    "ogImage": "http://rukmini1.flixcart.com/image/{@width}/{@height}/xif0q/milk/v/y/k/500-gold-pouch-plain-amul-original-imah2hrgfkuanznh.jpeg",
+                    "googleSiteVerification": false,
+                    "alexaVerifyId": false,
+                    "ogUrl": "http://www.flipkart.com/amul-gold-milk/p/itm44f0b035724de?pid=MLKHFR86C8QNQPT8&lid=LSTMLKHFR86C8QNQPT8LHIQQB&shopId=ben_194_wh_hl_01",
+                    "androidAppURI": "android-app://com.flipkart.android/flipkart/de_pp_seg_--_ITM44F0B035724DE",
+                    "seoFooterTitle": "More about Amul Gold Milk",
+                    "description": "Buy {TITLE} for Rs.{PRICE} online. {TITLE} at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee."
+                },
+                "schema": []
+            },
+            "dlsLayouts": {
+                "default_fk_hp_flex_banner_wo_pd_1": {
+                    "data": "$trackerData_0",
+                    "estimatedHeights": [
+                        154,
+                        220.28125,
+                        127.7109375
+                    ],
+                    "children": [
+                        {
+                            "data": "$box_0",
+                            "children": [
+                                {
+                                    "type": "ImageView",
+                                    "tokens": {
+                                        "flex": 1,
+                                        "width": "100%",
+                                        "resizeMode": "cover",
+                                        "progressive": true
+                                    },
+                                    "data": "$atomData_0",
+                                    "parentProps": {
+                                        "imageFactor": [
+                                            1,
+                                            1,
+                                            1
+                                        ]
+                                    },
+                                    "optional": true
+                                },
+                                {
+                                    "type": "LottieView",
+                                    "tokens": [
+                                        {
+                                            "autoPlay": true,
+                                            "loop": true,
+                                            "height": 160,
+                                            "speed": 1,
+                                            "deviceWidthMultiplier": 1
+                                        },
+                                        {
+                                            "autoPlay": true,
+                                            "loop": true,
+                                            "height": 160,
+                                            "speed": 1,
+                                            "deviceWidthMultiplier": 1
+                                        },
+                                        {
+                                            "autoPlay": true,
+                                            "loop": true,
+                                            "height": 160,
+                                            "speed": 1,
+                                            "deviceWidthMultiplier": 0.4
+                                        }
+                                    ],
+                                    "data": "$lottieData_0",
+                                    "optional": true,
+                                    "parentProps": {
+                                        "imageFactor": [
+                                            1.01,
+                                            1,
+                                            1
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "FkVideo",
+                                    "tokens": [
+                                        {
+                                            "deviceWidthMultiplier": 1,
+                                            "loopCount": -1,
+                                            "height": 100,
+                                            "width": 200,
+                                            "disableVideo": true
+                                        },
+                                        {
+                                            "deviceWidthMultiplier": 1,
+                                            "loopCount": -1,
+                                            "height": 100,
+                                            "width": 200,
+                                            "disableVideo": true
+                                        },
+                                        {
+                                            "loopCount": -1,
+                                            "height": 100,
+                                            "width": 200,
+                                            "disableVideo": true,
+                                            "deviceWidthMultiplier": 0.4
+                                        }
+                                    ],
+                                    "data": "$video_0",
+                                    "parentProps": {
+                                        "imageFactor": [
+                                            1.01,
+                                            1,
+                                            1
+                                        ]
+                                    },
+                                    "optional": true
+                                }
+                            ],
+                            "tokens": {
+                                "ml": "s0",
+                                "mr": "s0",
+                                "mt": "s0",
+                                "mb": "s0",
+                                "borderBottomLeftRadius": 16,
+                                "borderBottomRightRadius": 16,
+                                "borderRadius": 16,
+                                "borderTopLeftRadius": 16,
+                                "borderTopRightRadius": 16,
+                                "enableBorderSmoothing": true
+                            },
+                            "type": "Box",
+                            "parentProps": {
+                                "imageFactor": [
+                                    1.01,
+                                    1,
+                                    1
+                                ]
+                            },
+                            "optional": true
+                        }
+                    ],
+                    "colSpan": [
+                        12,
+                        12,
+                        12
+                    ],
+                    "parentProps": {
+                        "imageFactor": 1
+                    },
+                    "tokens": [
+                        {
+                            "bg": "background.white"
+                        },
+                        {
+                            "bg": "background.white"
+                        },
+                        {
+                            "bg": "background.white",
+                            "flex": 1
+                        }
+                    ],
+                    "optional": true,
+                    "type": "TrackerView",
+                    "category": [
+                        "s",
+                        "s",
+                        "s"
+                    ]
+                },
+                "default_fk_hp_hpw_regular": {
+                    "isVisited": true,
+                    "data": "$trackerData_0",
+                    "estimatedHeights": [
+                        449,
+                        656.7109375,
+                        883.7109375
+                    ],
+                    "children": [
+                        {
+                            "type": "CAROUSEL",
+                            "tokens": [
+                                {
+                                    "showIndicator": true
+                                },
+                                {
+                                    "showIndicator": true
+                                },
+                                {
+                                    "showIndicator": true,
+                                    "contentWidth": 328
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "type": "$default_fk_hp_flex_banner_wo_pd_1",
+                                    "data": "$default_fk_hp_flex_banner_wo_pd_1_0",
+                                    "parentProps": {
+                                        "imageFactor": [
+                                            0.98,
+                                            0.99,
+                                            0.99
+                                        ]
+                                    },
+                                    "nearestFormationParent": "$carouselData_0"
+                                }
+                            ],
+                            "data": "$carouselData_0",
+                            "variant": "default",
+                            "optional": true,
+                            "parentProps": {
+                                "imageFactor": [
+                                    1.01,
+                                    1,
+                                    1
+                                ]
+                            },
+                            "isVisited": true
+                        }
+                    ],
+                    "colSpan": [
+                        12,
+                        12,
+                        12
+                    ],
+                    "variant": "default",
+                    "parentProps": {
+                        "imageFactor": 1
+                    },
+                    "tokens": {
+                        "bg": "background.white",
+                        "pl": "s0",
+                        "pr": "s0",
+                        "pt": "s0",
+                        "pb": "s0"
+                    },
+                    "optional": true,
+                    "type": [
+                        "Box",
+                        "TrackerView",
+                        "TrackerView"
+                    ],
+                    "category": [
+                        "xl",
+                        "xl",
+                        "xl"
+                    ]
+                },
+                "sticker": {
+                    "isVisited": true,
+                    "data": "$box_0",
+                    "colSpan": [
+                        12,
+                        12,
+                        12
+                    ],
+                    "variant": "default",
+                    "parentProps": {
+                        "imageFactor": 1
+                    },
+                    "tokens": {
+                        "bg": "background.grey"
+                    },
+                    "optional": true,
+                    "type": "Box",
+                    "category": [
+                        "s",
+                        "s",
+                        "s"
+                    ],
+                    "dlsVersion": 3
+                }
+            },
+            "pageHash": "-1025033883",
+            "hasMorePages": false,
+            "pageEventResponseMap": {},
+            "paginationContextMap": {
+                "nps": {
+                    "prevPageFetchId": "7f5cceff-ddb7-4eed-bed7-98206b0b43ca.e021a070-9b66-4d1f-a9d3-ea2d668ddab2"
+                },
+                "dj": {
+                    "context": {},
+                    "pageType": "PRODUCT_PAGE"
+                }
+            },
+            "infinitePage": true,
+            "pageTags": {},
+            "nudges": {},
+            "elementId": "com/flipkart/mobile/api/facade/page"
+        }
+    },
+    "META_INFO": {
+        "abContext": {
+            "abWrapper": [
+                {
+                    "abId": "STG|launchedGroup|931b1780|h"
+                },
+                {
+                    "abId": "STG|targetingGate|35e01936|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|cccc9e27|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|559dd173|h"
+                },
+                {
+                    "abId": "STG|5FMNFApxxknUBpv9yo8dP:override|13f52cf1|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|a1e9456d|h"
+                },
+                {
+                    "abId": "STG|prestart|a16021be|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|46aeb36d|h"
+                },
+                {
+                    "abId": "STG|prestart|efcb9a34|h"
+                },
+                {
+                    "abId": "STG|5hHYqzH3iU5QvNBcpkjNRG|eee80bdc|h"
+                },
+                {
+                    "abId": "STG|1R74DMGiNPj3PfmPDUoVlU|cf47d70a|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|10ffd681|h"
+                },
+                {
+                    "abId": "STG|9ArlsNaFeuNZ0FSU5H86d|be1f10e4|h"
+                },
+                {
+                    "abId": "STG|1R74DMGiNPj3PfmPDUoVlU|8c13e64e|h"
+                },
+                {
+                    "abId": "STG|prestart|482f8d72|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|3f1f26d0|h"
+                },
+                {
+                    "abId": "STG|default|c14ddcb4|h"
+                }
+            ]
+        }
+    },
+    "REQUEST-ID": "e021a070-9b66-4d1f-a9d3-ea2d668ddab2",
+    "CACHE_INVALIDATION_TTL": "0",
+    "SESSION": {
+        "vid": "VI2032CAD34B73498CA6AB4A8BCBBD8E46",
+        "nsid": "3.VI2032CAD34B73498CA6AB4A8BCBBD8E46.1773641559490.VI2032CAD34B73498CA6AB4A8BCBBD8E46",
+        "flipkartFirstUser": false,
+        "secureToken": "VI2032CAD34B73498CA6AB4A8BCBBD8E46:VI2032CAD34B73498CA6AB4A8BCBBD8E46",
+        "sn": "VI2032CAD34B73498CA6AB4A8BCBBD8E46.TOKA26FFF5543314D32A6B2D9DE5D140996.1773641559345.LO",
+        "ts": 0,
+        "twoFa": false,
+        "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3NzUzNjk1NTMsImlhdCI6MTc3MzY0MTU1MywiaXNzIjoia2V2bGFyIiwianRpIjoiMThjMGJjYTItNDNjNy00MDY5LWI2ZjctNzIzZTRjYjMwZThjIiwidHlwZSI6IkFUIiwiZElkIjoiVEkxNzY5MDgwMjcxMjgwMDAxNjExNTYwMTU2MDc4MjEwNzU1NjEyNDUzNTU5ODM3MDgwNDU5OTk1NzgzNTM4MTA5MjQiLCJrZXZJZCI6IlZJMjAzMkNBRDM0QjczNDk4Q0E2QUI0QThCQ0JCRDhFNDYiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjN9.GphwPguCLk0JdqZhRwLxQWGhqb0_8nsotnk4DtJXBAE",
+        "rt": "null",
+        "isLoggedIn": false
+    },
+    "STATUS_CODE": 200
+}
