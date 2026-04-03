@@ -1,0 +1,209 @@
+{
+    "product_id": 8492293,
+    "product_name": "Men Full Sleeve Dry Fit Activewear T-Shirt Grey - MH550",
+    "brand": "QUECHUA",
+    "category": "Outdoor Men  T-shirts",
+    "type": "long-sleeved t-shirt",
+    "gender": "MEN",
+    "sport": "mountain hiking",
+    "stock": "Out of Stock - Notify Me",
+    "seller_detailes": {
+        "seller_name": "Decathlon Sports India Pvt Ltd",
+        "address": "Chikkajala",
+        "contact_no": "9999944444",
+        "email": "customercare@decathlon.com"
+    },
+    "made_in": "India",
+    "description": "At the foot of Mont Black, our team of enthusiasts designed this long-sleeved, moisture wicking t-shirt for regular mountain walking Ideal for the morning chill or when up a summit. You'll love this T-shirt because of its moisture absorption and  perspiration wicking properties.",
+    "price": {
+        "final_price": 999,
+        "mrp": 1399,
+        "discount": 400
+    },
+    "rating": {
+        "average": 4.63,
+        "count": 1163
+    },
+    "images": [
+        "https://contents.mediadecathlon.com/p2679026/4f12165cd3018150208a23a6c19fa46a/p2679026.jpg",
+        "https://contents.mediadecathlon.com/p2679858/8cd5aef5bf0bbcf371a79c2e45ff1033/p2679858.jpg",
+        "https://contents.mediadecathlon.com/p2679023/a95f44d229de0f7916f69ea722b15829/p2679023.jpg",
+        "https://contents.mediadecathlon.com/p1950461/3bc99db6cdcaa5c2272038be32fe2e43/p1950461.jpg",
+        "https://contents.mediadecathlon.com/p2679022/74f0059da0e44cc8bc229c253a4b8608/p2679022.jpg",
+        "https://contents.mediadecathlon.com/p1787597/e85568335c9f03767a813debe18bc755/p1787597.jpg",
+        "https://contents.mediadecathlon.com/p1787599/1b53c0951d966adf9ba047620ce95dc8/p1787599.jpg",
+        "https://contents.mediadecathlon.com/p1950440/acd8a091c350cb0fbdd57b438ce1ddd9/p1950440.jpg",
+        "https://contents.mediadecathlon.com/p2679021/255725b381db2b08752a4c67834d98a5/p2679021.jpg",
+        "https://contents.mediadecathlon.com/p1950351/5d13a00396470f4a714e5eae162c6b48/p1950351.jpg"
+    ],
+    "benefits": [
+        "Lightweight: Just 160g in size L",
+        "Moisture Management: The fabric absorbs humidity and wicks it away",
+        "Freedom Of Movement: Stretch fabric (25% elastane) for increased comfort when in movement",
+        "Odour Control: The ventilated fabric panels under the arms reduce the development of odours",
+        "Quick Drying: Its synthetic fabric dries quickly when it gets wet with perspiration"
+    ],
+    "product_specifications": [
+        {
+            "Key": "Fit",
+            "Value": "regular"
+        },
+        {
+            "Key": "Frequency",
+            "Value": "regular"
+        },
+        {
+            "Key": "Place Of Practice",
+            "Value": "mountain"
+        },
+        {
+            "Key": "Style",
+            "Value": "plain"
+        },
+        {
+            "Key": "Neck Type",
+            "Value": "zip neck"
+        },
+        {
+            "Key": "Level Of Practice",
+            "Value": "intermediate"
+        },
+        {
+            "Key": "Pocket",
+            "Value": "without pocket"
+        },
+        {
+            "Key": "Top Length",
+            "Value": "standard"
+        },
+        {
+            "Key": "Anti-Uv",
+            "Value": "anti-uv"
+        },
+        {
+            "Key": "Sleeve Finishing",
+            "Value": "without finishing"
+        },
+        {
+            "Key": "Main Material",
+            "Value": "synthetic"
+        },
+        {
+            "Key": "Weather Conditions",
+            "Value": "warm weather,mild weather,dry weather"
+        },
+        {
+            "Key": "Waterproof",
+            "Value": "no waterproof"
+        },
+        {
+            "Key": "Sleeves Length",
+            "Value": "long sleeves"
+        }
+    ],
+    "technical_information": [
+        {
+            "Key": "Size",
+            "Value": "S, M, L, XL, 2XL"
+        },
+        {
+            "Key": "FIT AND COMFORT IN MOVEMENT",
+            "Value": "This T-shirt has a sporty fitted cut. Select your usual size or one size larger if you prefer to wear your t-shirts looser."
+        },
+        {
+            "Key": "Perspiration wicking",
+            "Value": "The synthetic, lightweight fabric guarantees very good wicking away of perspiration out of the fabric. We conduct several standardised laboratory tests to guarantee this property"
+        },
+        {
+            "Key": "Product design: our expertise",
+            "Value": "Our Quechua global design centre is based in Passy, at the foot of Mont-Blanc in Haute-Savoie. This location makes it a real meeting place for our teams (designers, product managers, engineers, etc) and outdoor sports enthusiasts. A great asset for designing your mountain walking products and providing you with all our expertise."
+        },
+        {
+            "Key": "Quick drying",
+            "Value": "Drying time measures a fabric's capacity for drying quickly after being wet, according to a standardised protocol."
+        }
+    ],
+    "variants": [
+        {
+            "articleId": 2555568,
+            "size": "S",
+            "ean": "3608439458873",
+            "madeIn": "Cambodia",
+            "price": 999,
+            "mrp": 1399,
+            "weight": 0.16,
+            "chest_size": "36 in"
+        },
+        {
+            "articleId": 2555569,
+            "size": "M",
+            "ean": "3608439458880",
+            "madeIn": "Cambodia",
+            "price": 999,
+            "mrp": 1399,
+            "weight": 0.174,
+            "chest_size": "37 in"
+        },
+        {
+            "articleId": 2555570,
+            "size": "L",
+            "ean": "3608439458835",
+            "madeIn": "Cambodia",
+            "price": 999,
+            "mrp": 1399,
+            "weight": 0.186,
+            "chest_size": "40 in"
+        },
+        {
+            "articleId": 2555571,
+            "size": "XL",
+            "ean": "3608439458842",
+            "madeIn": "Cambodia",
+            "price": 999,
+            "mrp": 1399,
+            "weight": 0.196,
+            "chest_size": "44 in"
+        },
+        {
+            "articleId": 2555572,
+            "size": "2XL",
+            "ean": "3608439458859",
+            "madeIn": "Cambodia",
+            "price": 999,
+            "mrp": 1399,
+            "weight": 0.216,
+            "chest_size": "48 in"
+        }
+    ],
+    "others": [
+        {
+            "p_id": 8553419,
+            "product_name": "Men\u2019s T shirt Full Sleeve MH550 - Dark Blue",
+            "rating": 4.63,
+            "review_count": 1163,
+            "final_price": 999,
+            "total_price": 1399,
+            "images": [
+                "https://contents.mediadecathlon.com/p1622177/f2b8ac99db8f6024a82d92e441e93bea/p1622177.jpg"
+            ]
+        },
+        {
+            "p_id": 8858926,
+            "product_name": "Men Full Sleeve Dry Fit Activewear T-Shirt Dark Blue - MH550",
+            "rating": 4.63,
+            "review_count": 1163,
+            "final_price": 999,
+            "total_price": 1799,
+            "images": [
+                "https://contents.mediadecathlon.com/p2643708/de686f18d59cfb646565f87adce6d700/p2643708.jpg",
+                "https://contents.mediadecathlon.com/p2642039/174d5c2e5d17724237e96e3a7e4e3250/p2642039.jpg",
+                "https://contents.mediadecathlon.com/p2643709/05b4a7e2e64ae615db9811dc77d91235/p2643709.jpg",
+                "https://contents.mediadecathlon.com/p2643710/9efb2a5f23faa2efe74121ba045e6ecd/p2643710.jpg",
+                "https://contents.mediadecathlon.com/p2657292/f33263a6447aee6ffab18ce9c3278633/p2657292.jpg",
+                "https://contents.mediadecathlon.com/p2657367/ca0c0dc28a3de918f37dea9c658d8e0a/p2657367.jpg",
+                "https://contents.mediadecathlon.com/p2657326/bf33cf0f1757e759b1dd34f6efdead05/p2657326.jpg",
+                "https://contents.mediadecathlon.com/p2657441/9cb19f492b70dcf671ccc5edb66e88e2/p2657441.jpg"
+            ]
+        }
+    ]
+}
