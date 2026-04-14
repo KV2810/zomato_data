@@ -1,0 +1,2189 @@
+{
+    "data": {
+        "presentation": {
+            "__typename": "RootPresentationContainer",
+            "stayProductDetailPage": {
+                "__typename": "StayPDPPresentationContainer",
+                "reviews": {
+                    "__typename": "PdpReviews",
+                    "reviews": [
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "We had a really lovely stay and truly enjoyed our time here. The flat was clean, decent, safe, and instantly felt like home. Everything we needed was available, which made the stay very comfortable and stress-free. Vaibhav was extremely supportive and kind, he allowed us to check in early without any hassle and was always ready to help with a smile. Overall, a wonderful experience, and we’d happily recommend this place to anyone! ✨",
+                            "id": "1607855626222288750",
+                            "language": "en",
+                            "createdAt": "2026-01-27T10:02:06Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Manushi",
+                                "hostName": "Manushi",
+                                "id": "733830382",
+                                "contextualUserId": "1575182857076647247",
+                                "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=M&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                "profilePath": "/users/profile/1575182857076647247",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=M&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1575182857076647247"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "January 2026",
+                            "localizedRespondedDate": "January 2026",
+                            "localizedReviewerLocation": "3 months on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you so much for sharing your wonderful experience with us! 😊 I’m truly delighted to hear that you had a lovely, comfortable, and stress‑free stay at our flat. It means the world to me that you felt the place was clean, safe, and instantly like home – that’s exactly what we strive to provide for every guest. I’m grateful for your kind words.<br/>We hope you’ll visit us again soon and share another memorable experience with us. Your satisfaction is our greatest reward!",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "We had a really lovely stay and truly enjoyed our time here. The flat was clean, decent, safe, and instantly felt like home. Everything we needed was available, which made the stay very comfortable and stress-free. Vaibhav was extremely supportive and kind, he allowed us to check in early without any hassle and was always ready to help with a smile. Overall, a wonderful experience, and we’d happily recommend this place to anyone! ✨",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "We had a really lovely stay and truly enjoyed our time here. The flat was clean, decent, safe, and instantly felt like home. Everything we needed was available, which made the stay very comfortable and stress-free. Vaibhav was extremely supportive and kind, he allowed us to check in early without any hassle and was always ready to help with a smile. Overall, a wonderful experience, and we’d happily recommend this place to anyone! ✨",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "The interior looked nice, but the space felt quite small considering the cost. One bedroom (with the TV) had very dirty bedsheets and a comforter with visible stains, which was disappointing. The interior also wasn’t well maintained, with exposed wires visible in multiple areas. Additionally, parking inside premises is not allowed due to society rules. Overall, there is definitely room for improvement.",
+                            "id": "1591145089847826009",
+                            "language": "en",
+                            "createdAt": "2026-01-04T08:41:15Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Aman",
+                                "hostName": "Aman",
+                                "id": "687644734",
+                                "contextualUserId": "1504245685464974501",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/cf46bc09-04d8-4983-aa99-53719cebab45.jpeg",
+                                "profilePath": "/users/profile/1504245685464974501",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/cf46bc09-04d8-4983-aa99-53719cebab45.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1504245685464974501"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "January 2026",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "1 year on Airbnb",
+                            "localizedReview": null,
+                            "rating": 3,
+                            "ratingAccessibilityLabel": "Rating, 3 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "The interior looked nice, but the space felt quite small considering the cost. One bedroom (with the TV) had very dirty bedsheets and a comforter with visible stains, which was disappointing. The interior also wasn’t well maintained, with exposed wires visible in multiple areas. Additionally, parking inside premises is not allowed due to society rules. Overall, there is definitely room for improvement.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "The interior looked nice, but the space felt quite small considering the cost. One bedroom (with the TV) had very dirty bedsheets and a comforter with visible stains, which was disappointing. The interior also wasn’t well maintained, with exposed wires visible in multiple areas. Additionally, parking inside premises is not allowed due to society rules. Overall, there is definitely room for improvement.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "Vaibhav was responsive right from the start. Him and Avinash helped with suggestions and were patient enough with all our queries. Their place was aesthetically done and had a very positive vibe about it. Vaibhav became that friend you wanted in a new city. I would highly recommend his place when you're in Ahmedabad and needless to say I would be staying here if I revisit. Good job guys!",
+                            "id": "1572340855661200108",
+                            "language": "en",
+                            "createdAt": "2025-12-09T10:00:36Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Sabiha",
+                                "hostName": "Sabiha",
+                                "id": "56323668",
+                                "contextualUserId": "1480215341280372974",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/6240ba51-74e7-4fcb-9052-fa5ec703a336.jpg",
+                                "profilePath": "/users/profile/1480215341280372974",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/6240ba51-74e7-4fcb-9052-fa5ec703a336.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1480215341280372974"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "December 2025",
+                            "localizedRespondedDate": "December 2025",
+                            "localizedReviewerLocation": "10 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Hey Sabiha,<br/>Thank you so much for sharing such a heartwarming review. It truly means a lot to both Avinash and me. 🌼<br/>From the very beginning, it was an absolute pleasure assisting you. We’re glad to know that our suggestions were helpful and that our efforts to patiently address all your queries made your experience smoother. Your comfort and peace of mind were always our priority.<br/>We’re delighted that you felt a positive vibe in the home — we’ve put a lot of love into creating a space that feels welcoming, safe, and aesthetically comforting, especially for guests visiting a new city. Knowing that it resonated with you brings us genuine happiness.<br/>Your kind words about me becoming “that friend in a new city” touched my heart. Hosting respectful and cheerful guests like you makes the experience truly meaningful. Your warmth, positivity, and wonderful energy added so much to the home during your stay.<br/>Thank you sincerely for your recommendation — it means the world to us. We would be honored to welcome you back to Ahmedabad whenever you revisit. Until then, wishing you all many joyful adventures and beautiful memories ahead. ✨",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "Vaibhav was responsive right from the start. Him and Avinash helped with suggestions and were patient enough with all our queries. Their place was aesthetically done and had a very positive vibe about it. Vaibhav became that friend you wanted in a new city. I would highly recommend his place when you're in Ahmedabad and needless to say I would be staying here if I revisit. Good job guys!",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "Vaibhav was responsive right from the start. Him and Avinash helped with suggestions and were patient enough with all our queries. Their place was aesthetically done and had a very positive vibe about it. Vaibhav became that friend you wanted in a new city. I would highly recommend his place when you're in Ahmedabad and needless to say I would be staying here if I revisit. Good job guys!",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "Offers a lot more than what you pay for this location and property.(Mental peace). Vaibhav is extremely professional and polite to guests. The property is so well maintained that it felt like own home. The entire premise asthetics is phenomenal and so relaxing. Awesome listing it is. I really loved it, so peaceful so relaxing. True value for money. <br/>Thank you Vaibhav.",
+                            "id": "1561440039276800255",
+                            "language": "en",
+                            "createdAt": "2025-11-24T09:02:37Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Saurabh",
+                                "hostName": "Saurabh",
+                                "id": "43079865",
+                                "contextualUserId": "1475057036699402190",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/1b62f09a-20de-4ab8-9ca9-2ec71a51621f.jpeg",
+                                "profilePath": "/users/profile/1475057036699402190",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/1b62f09a-20de-4ab8-9ca9-2ec71a51621f.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1475057036699402190"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "November 2025",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "11 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "Offers a lot more than what you pay for this location and property.(Mental peace). Vaibhav is extremely professional and polite to guests. The property is so well maintained that it felt like own home. The entire premise asthetics is phenomenal and so relaxing. Awesome listing it is. I really loved it, so peaceful so relaxing. True value for money. <br/>Thank you Vaibhav.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "Offers a lot more than what you pay for this location and property.(Mental peace). Vaibhav is extremely professional and polite to guests. The property is so well maintained that it felt like own home. The entire premise asthetics is phenomenal and so relaxing. Awesome listing it is. I really loved it, so peaceful so relaxing. True value for money. <br/>Thank you Vaibhav.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "I recently stayed at this Airbnb and had a great experience. The room was clean, comfortable, and exactly as described in the listing. The bed was cozy, and the space felt quiet and relaxing throughout my stay.<br/>The host was friendly, responsive, and made check-in incredibly smooth. They provided clear instructions and were always available if I had a question.",
+                            "id": "1550568279210180505",
+                            "language": "en",
+                            "createdAt": "2025-11-09T09:02:22Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "651471693",
+                                "contextualUserId": "1486949989593301875",
+                                "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=V&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                "profilePath": "/users/profile/1486949989593301875",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=V&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1486949989593301875"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "November 2025",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "2 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 4,
+                            "ratingAccessibilityLabel": "Rating, 4 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "I recently stayed at this Airbnb and had a great experience. The room was clean, comfortable, and exactly as described in the listing. The bed was cozy, and the space felt quiet and relaxing throughout my stay.<br/>The host was friendly, responsive, and made check-in incredibly smooth. They provided clear instructions and were always available if I had a question.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "I recently stayed at this Airbnb and had a great experience. The room was clean, comfortable, and exactly as described in the listing. The bed was cozy, and the space felt quiet and relaxing throughout my stay.<br/>The host was friendly, responsive, and made check-in incredibly smooth. They provided clear instructions and were always available if I had a question.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "It was really a luxurious stay we ever had in air bnb everything was perfectly clean we got every facilities from Netflix to guitar and kitchen was fully complete with every utensils",
+                            "id": "1601372797542677753",
+                            "language": "en",
+                            "createdAt": "2026-01-18T11:21:53Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Rudra",
+                                "hostName": "Rudra",
+                                "id": "740333889",
+                                "contextualUserId": "1599082969578089298",
+                                "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=R&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                "profilePath": "/users/profile/1599082969578089298",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=R&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1599082969578089298"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "January 2026",
+                            "localizedRespondedDate": "January 2026",
+                            "localizedReviewerLocation": "2 months on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you Rudra! <br/>We are pleased to know that you loved the stay.<br/>Would love to host you again in the near future!",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "It was really a luxurious stay we ever had in air bnb everything was perfectly clean we got every facilities from Netflix to guitar and kitchen was fully complete with every utensils",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "It was really a luxurious stay we ever had in air bnb everything was perfectly clean we got every facilities from Netflix to guitar and kitchen was fully complete with every utensils",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "place was well maintained and clean . some faucet(like sink and bathroom) and appliances were hard to use initially would be great if there were some instruction manuals. but I all stay was good will book again",
+                            "id": "1581025784481882065",
+                            "language": "en",
+                            "createdAt": "2025-12-21T09:36:00Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vishwas",
+                                "hostName": "Vishwas",
+                                "id": "104008845",
+                                "contextualUserId": "1483861642913119620",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/308880ad-4b25-48a2-ac61-840306a5b3b5.jpg",
+                                "profilePath": "/users/profile/1483861642913119620",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/308880ad-4b25-48a2-ac61-840306a5b3b5.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1483861642913119620"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "December 2025",
+                            "localizedRespondedDate": "December 2025",
+                            "localizedReviewerLocation": "9 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 4,
+                            "ratingAccessibilityLabel": "Rating, 4 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you vishwas, glad you like the property and your feedback for the instruction manual will be taken care of moving forward.<br/>Thanks again!! :)",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "place was well maintained and clean . some faucet(like sink and bathroom) and appliances were hard to use initially would be great if there were some instruction manuals. but I all stay was good will book again",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "place was well maintained and clean . some faucet(like sink and bathroom) and appliances were hard to use initially would be great if there were some instruction manuals. but I all stay was good will book again",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "Amazing stay – highly recommended!<br/>I absolutely loved my stay here. The place was clean, comfortable, and exactly as described. It felt very welcoming and well maintained, making it easy to relax from the moment I arrived.<br/>A special thanks to Vaibhav and his brother Avinash — they were excellent hosts: polite, responsive, and always ready to help. Their hospitality truly made the experience even better.<br/>Overall, a great stay and I would definitely choose this place again. Highly recommended for anyone looking for a smooth and comfortable Airbnb experience!",
+                            "id": "1580290631681454695",
+                            "language": "en",
+                            "createdAt": "2025-12-20T09:15:23Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Darshan",
+                                "hostName": "Darshan",
+                                "id": "729482714",
+                                "contextualUserId": "1555740012317363487",
+                                "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=D&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                "profilePath": "/users/profile/1555740012317363487",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=D&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1555740012317363487"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "December 2025",
+                            "localizedRespondedDate": "December 2025",
+                            "localizedReviewerLocation": "4 months on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Hello Darshan,<br/>Thank you so much for your wonderful words — they truly made our day! 🌟<br/>We’re genuinely delighted to know that your stay was amazing and that you felt comfortable, relaxed, and well taken care of throughout your time with us.<br/>It means a lot to hear that you found the place clean, welcoming, and exactly as described — we work hard to maintain that consistency for every guest. Your kind appreciation is incredibly heartwarming. We were very happy to host you, and we truly enjoyed assisting you whenever needed. Your positivity, respect, and warmth as a guest made hosting you an absolute pleasure.<br/>We’re grateful for your thoughtful recommendation, and it would be an honor to welcome you back anytime. Guests like you make hosting such a rewarding experience. ✨<br/>Wishing you wonderful journeys ahead — and we hope to see you again soon! 🙏🏽💛",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "Amazing stay – highly recommended!<br/>I absolutely loved my stay here. The place was clean, comfortable, and exactly as described. It felt very welcoming and well maintained, making it easy to relax from the moment I arrived.<br/>A special thanks to Vaibhav and his brother Avinash — they were excellent hosts: polite, responsive, and always ready to help. Their hospitality truly made the experience even better.<br/>Overall, a great stay and I would definitely choose this place again. Highly recommended for anyone looking for a smooth and comfortable Airbnb experience!",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "Amazing stay – highly recommended!<br/>I absolutely loved my stay here. The place was clean, comfortable, and exactly as described. It felt very welcoming and well maintained, making it easy to relax from the moment I arrived.<br/>A special thanks to Vaibhav and his brother Avinash — they were excellent hosts: polite, responsive, and always ready to help. Their hospitality truly made the experience even better.<br/>Overall, a great stay and I would definitely choose this place again. Highly recommended for anyone looking for a smooth and comfortable Airbnb experience!",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "Vaibhav's brother was super responsive. House is nice & bathroom has fancy furnishings, but many don't work as expected. Needs a washing machine and a clothes line if you're staying more than a night. Parking is designated - no problems.",
+                            "id": "1578067448076113093",
+                            "language": "en",
+                            "createdAt": "2025-12-17T07:38:19Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Ritujoy",
+                                "hostName": "Ritujoy",
+                                "id": "87295175",
+                                "contextualUserId": "1501916124220435541",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/5e1cb49c-9a88-45fb-8175-444d8149017e.jpeg",
+                                "profilePath": "/users/profile/1501916124220435541",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/5e1cb49c-9a88-45fb-8175-444d8149017e.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1501916124220435541"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "December 2025",
+                            "localizedRespondedDate": "December 2025",
+                            "localizedReviewerLocation": "10 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 4,
+                            "ratingAccessibilityLabel": "Rating, 4 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you sir for your feedback.<br/>Your feedback means a lot to us, which will be taken care of moving forward.<br/>Hope to see your future reservations with us. :)",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "Vaibhav's brother was super responsive. House is nice & bathroom has fancy furnishings, but many don't work as expected. Needs a washing machine and a clothes line if you're staying more than a night. Parking is designated - no problems.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "Vaibhav's brother was super responsive. House is nice & bathroom has fancy furnishings, but many don't work as expected. Needs a washing machine and a clothes line if you're staying more than a night. Parking is designated - no problems.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "The stay was truly fantastic and no doubt about value for money. Everything worked well. The only thing we are sad about is that our stay was too short. This property's value became apparent when we need to stay with another host in the city. Thanks to Vibhav for making available his beautiful home for us",
+                            "id": "1575237198707077009",
+                            "language": "en",
+                            "createdAt": "2025-12-13T09:55:07Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vinod",
+                                "hostName": "Vinod",
+                                "id": "113739366",
+                                "contextualUserId": "1484793100969256455",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/e899dfa0-87ff-4c4d-b6cb-33e2848e4f21.jpg",
+                                "profilePath": "/users/profile/1484793100969256455",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/e899dfa0-87ff-4c4d-b6cb-33e2848e4f21.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1484793100969256455"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "December 2025",
+                            "localizedRespondedDate": "December 2025",
+                            "localizedReviewerLocation": "9 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you so much for your beautiful review — it truly brought a smile to our faces! 🌟<br/>We are absolutely delighted to hear that your stay felt fantastic and offered great value for money. Knowing that everything worked smoothly for you means a lot to us, as we always strive to create a comfortable and stress‑free experience for every guest.<br/>Your only regret — that the stay was too short — is the sweetest compliment we could receive. We genuinely wish we had the chance to host you for longer too! It’s incredibly kind of you to share that you realized the value of our place even more when staying elsewhere. Comments like this remind us why we put so much love and care into maintaining our home.<br/> I was truly happy to host you and is grateful that you appreciated the home and the hospitality.<br/>You were a wonderful guest, and we would be thrilled to welcome you back anytime. Until then, wishing you many more happy travels and memorable stays ahead! ✨💛",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "The stay was truly fantastic and no doubt about value for money. Everything worked well. The only thing we are sad about is that our stay was too short. This property's value became apparent when we need to stay with another host in the city. Thanks to Vibhav for making available his beautiful home for us",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "The stay was truly fantastic and no doubt about value for money. Everything worked well. The only thing we are sad about is that our stay was too short. This property's value became apparent when we need to stay with another host in the city. Thanks to Vibhav for making available his beautiful home for us",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "The interior was beautiful and nicely decorated; however, the space was not cleaned before my arrival. The bedsheet had multiple stains, the second room smelled of cigarettes, and the bathroom drain was clogged due to trash accumulation.",
+                            "id": "1570230521555602887",
+                            "language": "en",
+                            "createdAt": "2025-12-06T12:07:44Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Jatin",
+                                "hostName": "Jatin",
+                                "id": "500766444",
+                                "contextualUserId": "1490368766158143410",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/e75afecc-da61-4992-887e-dedf6759fb31.jpeg",
+                                "profilePath": "/users/profile/1490368766158143410",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/e75afecc-da61-4992-887e-dedf6759fb31.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1490368766158143410"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "December 2025",
+                            "localizedRespondedDate": "December 2025",
+                            "localizedReviewerLocation": "3 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 3,
+                            "ratingAccessibilityLabel": "Rating, 3 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Dear Sir,<br/>Thank you for taking the time to share your feedback. We would like to clarify a few points to ensure an accurate understanding for future guests.<br/>You had requested an urgent early check‑in, and before confirming it, we clearly informed you that our cleaning staff might need a little time to prepare the space. You kindly agreed over the call and mentioned that you were comfortable managing the situation. Despite the last‑minute request, we did our best to accommodate you.<br/>Additionally, when you chose to cancel, we processed your full refund promptly. Even after the cancellation and refund, we welcomed you back without any hesitation and reinstated your reservation so you could stay comfortably at our property.<br/>We always aim to provide a positive experience, and we accommodated every request made, even under time constraints. We are genuinely disappointed that your experience didn’t reflect the efforts we made on your behalf, but we remain committed to offering respectful, transparent, and helpful service to all our guests.<br/>Thank you once again, and we wish you the very best.",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "The interior was beautiful and nicely decorated; however, the space was not cleaned before my arrival. The bedsheet had multiple stains, the second room smelled of cigarettes, and the bathroom drain was clogged due to trash accumulation.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "The interior was beautiful and nicely decorated; however, the space was not cleaned before my arrival. The bedsheet had multiple stains, the second room smelled of cigarettes, and the bathroom drain was clogged due to trash accumulation.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "⭐️⭐️⭐️⭐️⭐️<br/>I had a wonderful stay at this property in Ahmedabad! Vaibhav is an amazing host — extremely helpful, responsive, and considerate. He arranged an early check-in as per my request and guided me perfectly throughout my stay. The communication was clear and smooth. The property itself is beautiful, very clean, and has a lovely ambience that truly made me feel at home. I absolutely loved my stay here and would love to stay again whenever I visit Ahmedabad. Highly recommended!",
+                            "id": "1552054417308316657",
+                            "language": "en",
+                            "createdAt": "2025-11-11T10:15:04Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Shalu",
+                                "hostName": "Shalu",
+                                "id": "673693770",
+                                "contextualUserId": "1498082808912212514",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/caf0bf45-c19d-4027-aeac-37c0bea0f345.jpeg",
+                                "profilePath": "/users/profile/1498082808912212514",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/caf0bf45-c19d-4027-aeac-37c0bea0f345.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1498082808912212514"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "November 2025",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "1 year on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "⭐️⭐️⭐️⭐️⭐️<br/>I had a wonderful stay at this property in Ahmedabad! Vaibhav is an amazing host — extremely helpful, responsive, and considerate. He arranged an early check-in as per my request and guided me perfectly throughout my stay. The communication was clear and smooth. The property itself is beautiful, very clean, and has a lovely ambience that truly made me feel at home. I absolutely loved my stay here and would love to stay again whenever I visit Ahmedabad. Highly recommended!",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "⭐️⭐️⭐️⭐️⭐️<br/>I had a wonderful stay at this property in Ahmedabad! Vaibhav is an amazing host — extremely helpful, responsive, and considerate. He arranged an early check-in as per my request and guided me perfectly throughout my stay. The communication was clear and smooth. The property itself is beautiful, very clean, and has a lovely ambience that truly made me feel at home. I absolutely loved my stay here and would love to stay again whenever I visit Ahmedabad. Highly recommended!",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "vaibhav is such a great host. He is so kind and  responsive. The place is so nice. Very clean and organized, The location is secure. The interior decoration in the apartment is so beautiful. <br/>Will definitely stay with him the next time I return to Ahamedabad. I highly recommend.",
+                            "id": "1545520747289414447",
+                            "language": "en",
+                            "createdAt": "2025-11-02T09:53:50Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Teddy",
+                                "hostName": "Teddy",
+                                "id": "9935224",
+                                "contextualUserId": "1478746220250551615",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-9935224/original/dfc4e0d8-de68-4e33-9078-87203df674c5.jpeg",
+                                "profilePath": "/users/profile/1478746220250551615",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User-9935224/original/dfc4e0d8-de68-4e33-9078-87203df674c5.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1478746220250551615"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "November 2025",
+                            "localizedRespondedDate": "November 2025",
+                            "localizedReviewerLocation": "Kampala, Uganda",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you so much for your wonderful feedback, we are glad that you like the property, hope to see you soon and delighted to host you! Thanks again :)",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "vaibhav is such a great host. He is so kind and  responsive. The place is so nice. Very clean and organized, The location is secure. The interior decoration in the apartment is so beautiful. <br/>Will definitely stay with him the next time I return to Ahamedabad. I highly recommend.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "vaibhav is such a great host. He is so kind and  responsive. The place is so nice. Very clean and organized, The location is secure. The interior decoration in the apartment is so beautiful. <br/>Will definitely stay with him the next time I return to Ahamedabad. I highly recommend.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "Although the place is a little far from the main city, the place is amazing and vaibhav has been a very nice host. Definitely recommend if you have a vehicle.",
+                            "id": "1650624535633997364",
+                            "language": "en",
+                            "createdAt": "2026-03-27T10:16:18Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Srikanishk",
+                                "hostName": "Srikanishk",
+                                "id": "751178889",
+                                "contextualUserId": "1640499678570452193",
+                                "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=S&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                "profilePath": "/users/profile/1640499678570452193",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=S&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1640499678570452193"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "1 week ago",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "New to Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "Although the place is a little far from the main city, the place is amazing and vaibhav has been a very nice host. Definitely recommend if you have a vehicle.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "Although the place is a little far from the main city, the place is amazing and vaibhav has been a very nice host. Definitely recommend if you have a vehicle.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "We had a wonderful two-week stay at this beautiful flat and couldn’t recommend it more highly. The property itself is stunning – tastefully decorated, extremely comfortable, and clearly very well cared for. It felt like a real home rather than a short-term rental.<br/>The hosts were fantastic throughout our stay. Communication was always quick, helpful and welcoming, which made everything effortless from check-in to departure. A special mention also goes to the cleaners, who attended regularly and kept the flat spotless – something we really appreciated during a longer stay.<br/>The location is brilliant as well, with shops, restaurants and transport all within easy walking distance. It made exploring the area incredibly convenient.<br/>Overall, this was one of the best Airbnb experiences we’ve had. A beautiful property, attentive hosts and a perfect location – we would absolutely stay again.",
+                            "id": "1627424394159612820",
+                            "language": "en",
+                            "createdAt": "2026-02-23T10:01:45Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Juhi",
+                                "hostName": "Juhi",
+                                "id": "533697353",
+                                "contextualUserId": "1494372657498573902",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-533697353/original/6043f4a3-2f46-449e-8314-e0357e4228c9.jpeg",
+                                "profilePath": "/users/profile/1494372657498573902",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User-533697353/original/6043f4a3-2f46-449e-8314-e0357e4228c9.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1494372657498573902"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "February 2026",
+                            "localizedRespondedDate": "March 2026",
+                            "localizedReviewerLocation": "3 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "It was an absolute pleasure hosting Juhi and her lovely family! They were incredibly understanding and a joy to have around. Their warmth and kindness made our home feel truly welcoming. We'd be delighted to welcome Juhi and her family back anytime – they're a treasure!",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "We had a wonderful two-week stay at this beautiful flat and couldn’t recommend it more highly. The property itself is stunning – tastefully decorated, extremely comfortable, and clearly very well cared for. It felt like a real home rather than a short-term rental.<br/>The hosts were fantastic throughout our stay. Communication was always quick, helpful and welcoming, which made everything effortless from check-in to departure. A special mention also goes to the cleaners, who attended regularly and kept the flat spotless – something we really appreciated during a longer stay.<br/>The location is brilliant as well, with shops, restaurants and transport all within easy walking distance. It made exploring the area incredibly convenient.<br/>Overall, this was one of the best Airbnb experiences we’ve had. A beautiful property, attentive hosts and a perfect location – we would absolutely stay again.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "We had a wonderful two-week stay at this beautiful flat and couldn’t recommend it more highly. The property itself is stunning – tastefully decorated, extremely comfortable, and clearly very well cared for. It felt like a real home rather than a short-term rental.<br/>The hosts were fantastic throughout our stay. Communication was always quick, helpful and welcoming, which made everything effortless from check-in to departure. A special mention also goes to the cleaners, who attended regularly and kept the flat spotless – something we really appreciated during a longer stay.<br/>The location is brilliant as well, with shops, restaurants and transport all within easy walking distance. It made exploring the area incredibly convenient.<br/>Overall, this was one of the best Airbnb experiences we’ve had. A beautiful property, attentive hosts and a perfect location – we would absolutely stay again.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "first things first, the stay was fantastic. It felt like a home as if I am staying in my own flat. Everything in that place is so beautiful and perfect that I don't have words to describe it. After actually seeing the place, I questioned myself why was I ever looking to stay in a hotel when I can stay in such a beautiful home. That place is so wonderful that I have stayed a full day in it just admiring. I still remember it and had great memories of it in my mind. Apart from flat, Vaibhav and Avinash was really good at communicating and very helpful throughout the entire process. Would book it everytime I come to Ahmedabad in future for sure. 🥰💟",
+                            "id": "1624521619906396754",
+                            "language": "en",
+                            "createdAt": "2026-02-19T09:54:28Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Nikhil",
+                                "hostName": "Nikhil",
+                                "id": "724602872",
+                                "contextualUserId": "1534591505686657994",
+                                "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=N&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                "profilePath": "/users/profile/1534591505686657994",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=N&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1534591505686657994"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "February 2026",
+                            "localizedRespondedDate": "February 2026",
+                            "localizedReviewerLocation": "5 months on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you Nikhil for such a lovely feedback. We would love to host you again! you are a wonderful person!🙂<br/>Additionaly your personal feedback will also be considered seriously thank you for that too🙌",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "first things first, the stay was fantastic. It felt like a home as if I am staying in my own flat. Everything in that place is so beautiful and perfect that I don't have words to describe it. After actually seeing the place, I questioned myself why was I ever looking to stay in a hotel when I can stay in such a beautiful home. That place is so wonderful that I have stayed a full day in it just admiring. I still remember it and had great memories of it in my mind. Apart from flat, Vaibhav and Avinash was really good at communicating and very helpful throughout the entire process. Would book it everytime I come to Ahmedabad in future for sure. 🥰💟",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "first things first, the stay was fantastic. It felt like a home as if I am staying in my own flat. Everything in that place is so beautiful and perfect that I don't have words to describe it. After actually seeing the place, I questioned myself why was I ever looking to stay in a hotel when I can stay in such a beautiful home. That place is so wonderful that I have stayed a full day in it just admiring. I still remember it and had great memories of it in my mind. Apart from flat, Vaibhav and Avinash was really good at communicating and very helpful throughout the entire process. Would book it everytime I come to Ahmedabad in future for sure. 🥰💟",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "From the moment I entered, the place had a beautiful soul of its own — peaceful, warm and instantly comforting. It doesn’t feel like a commercial stay at all, more like a thoughtfully curated home with positive energy everywhere. The interiors, cleanliness and ambience are spot on, and the surroundings are calm yet very well-connected with small cafés and local spots just around the corner. Special mention to Vaibhav — incredibly polite, humble and super coordinated throughout the stay. He made everything effortless with quick responses and genuine care. If you’re looking for a stay that blends comfort, aesthetics, locality and human warmth — this place is a gem. Would love to come back again.",
+                            "id": "1540480453686943729",
+                            "language": "en",
+                            "createdAt": "2025-10-26T10:59:40Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Rishikesh",
+                                "hostName": "Rishikesh",
+                                "id": "539239608",
+                                "contextualUserId": "1480080775312319839",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/abb1db2f-7575-4b1d-a86f-d8d88283e829.jpeg",
+                                "profilePath": "/users/profile/1480080775312319839",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/abb1db2f-7575-4b1d-a86f-d8d88283e829.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1480080775312319839"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "October 2025",
+                            "localizedRespondedDate": "October 2025",
+                            "localizedReviewerLocation": "3 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you Rishikesh for you wonderful response. It means alot to us. We would love to host you again. You are such gentle soul!",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "From the moment I entered, the place had a beautiful soul of its own — peaceful, warm and instantly comforting. It doesn’t feel like a commercial stay at all, more like a thoughtfully curated home with positive energy everywhere. The interiors, cleanliness and ambience are spot on, and the surroundings are calm yet very well-connected with small cafés and local spots just around the corner. Special mention to Vaibhav — incredibly polite, humble and super coordinated throughout the stay. He made everything effortless with quick responses and genuine care. If you’re looking for a stay that blends comfort, aesthetics, locality and human warmth — this place is a gem. Would love to come back again.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "From the moment I entered, the place had a beautiful soul of its own — peaceful, warm and instantly comforting. It doesn’t feel like a commercial stay at all, more like a thoughtfully curated home with positive energy everywhere. The interiors, cleanliness and ambience are spot on, and the surroundings are calm yet very well-connected with small cafés and local spots just around the corner. Special mention to Vaibhav — incredibly polite, humble and super coordinated throughout the stay. He made everything effortless with quick responses and genuine care. If you’re looking for a stay that blends comfort, aesthetics, locality and human warmth — this place is a gem. Would love to come back again.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "The place is really beautiful. Vaibhav was an amazing host and helpful throughout the stay.",
+                            "id": "1656397824634131523",
+                            "language": "en",
+                            "createdAt": "2026-04-04T09:26:47Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Rutuja",
+                                "hostName": "Rutuja",
+                                "id": "754121525",
+                                "contextualUserId": "1652168600361130132",
+                                "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=R&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                "profilePath": "/users/profile/1652168600361130132",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=R&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1652168600361130132"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "4 days ago",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "New to Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "The place is really beautiful. Vaibhav was an amazing host and helpful throughout the stay.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "The place is really beautiful. Vaibhav was an amazing host and helpful throughout the stay.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "it's a great place but bit far from center of ahemdabad. apart from this flat was amazing,  we enjoyed our time...",
+                            "id": "1638283712043520863",
+                            "language": "en",
+                            "createdAt": "2026-03-10T09:37:17Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Rohan",
+                                "hostName": "Rohan",
+                                "id": "721460687",
+                                "contextualUserId": "1521031413077066192",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/735c819c-ca79-4172-a267-0d726a68afef.jpeg",
+                                "profilePath": "/users/profile/1521031413077066192",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/735c819c-ca79-4172-a267-0d726a68afef.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1521031413077066192"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "March 2026",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "6 months on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "it's a great place but bit far from center of ahemdabad. apart from this flat was amazing,  we enjoyed our time...",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "it's a great place but bit far from center of ahemdabad. apart from this flat was amazing,  we enjoyed our time...",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "Fantastic house. Our stay was split over 2 weeks and we very happily returned back here as we loved it so much!",
+                            "id": "1636889418523724341",
+                            "language": "en",
+                            "createdAt": "2026-03-08T11:27:04Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Juhi",
+                                "hostName": "Juhi",
+                                "id": "533697353",
+                                "contextualUserId": "1494372657498573902",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-533697353/original/6043f4a3-2f46-449e-8314-e0357e4228c9.jpeg",
+                                "profilePath": "/users/profile/1494372657498573902",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/User-533697353/original/6043f4a3-2f46-449e-8314-e0357e4228c9.jpeg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1494372657498573902"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "March 2026",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "3 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "Fantastic house. Our stay was split over 2 weeks and we very happily returned back here as we loved it so much!",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "Fantastic house. Our stay was split over 2 weeks and we very happily returned back here as we loved it so much!",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "Vaibhav and Avinash were very helpful and reactive. The place was well designed and comfortable. Access was super easy and the building security guard was able to let us in without issue, he had been informed of our arrival beforehand. <br/>Flat was clean but the bathrooms looked like they had not been deep cleaned, but Avinash was able to get them cleaned promptly once I notified him. <br/>Also FYI the detached bathroom does not have a sink, only toilet and shower. <br/>We were able to park our car and motorbike in the parking bay. Just to note that there were some questions from other residents since our vehicles had non-GJ plates, and we had a little trouble getting back in at night after the security guard changed. It was ok once we clarified that we had already parked the car inside during the day and entered it into the guest book. I think it was related to the other residents asking about unfamiliar vehicles in the building so just useful to know while booking.",
+                            "id": "1565767808714348404",
+                            "language": "en",
+                            "createdAt": "2025-11-30T08:21:08Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Adya",
+                                "hostName": "Adya",
+                                "id": "241945994",
+                                "contextualUserId": "1478492030398835763",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/9d3a49ae-f1f6-4c53-a348-52523174e030.jpg",
+                                "profilePath": "/users/profile/1478492030398835763",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/9d3a49ae-f1f6-4c53-a348-52523174e030.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1478492030398835763"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "November 2025",
+                            "localizedRespondedDate": "December 2025",
+                            "localizedReviewerLocation": "7 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 4,
+                            "ratingAccessibilityLabel": "Rating, 4 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Hello Adya!<br/>Thank you so much for your thoughtful feedback! We’re glad you enjoyed the comfort and design of the space. Your observations are valuable, and we appreciate your understanding. Looking forward to welcoming you again soon! Your personal feedbacks have been also taken care off!<br/>Thanks again!",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "Vaibhav and Avinash were very helpful and reactive. The place was well designed and comfortable. Access was super easy and the building security guard was able to let us in without issue, he had been informed of our arrival beforehand. <br/>Flat was clean but the bathrooms looked like they had not been deep cleaned, but Avinash was able to get them cleaned promptly once I notified him. <br/>Also FYI the detached bathroom does not have a sink, only toilet and shower. <br/>We were able to park our car and motorbike in the parking bay. Just to note that there were some questions from other residents since our vehicles had non-GJ plates, and we had a little trouble getting back in at night after the security guard changed. It was ok once we clarified that we had already parked the car inside during the day and entered it into the guest book. I think it was related to the other residents asking about unfamiliar vehicles in the building so just useful to know while booking.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "Vaibhav and Avinash were very helpful and reactive. The place was well designed and comfortable. Access was super easy and the building security guard was able to let us in without issue, he had been informed of our arrival beforehand. <br/>Flat was clean but the bathrooms looked like they had not been deep cleaned, but Avinash was able to get them cleaned promptly once I notified him. <br/>Also FYI the detached bathroom does not have a sink, only toilet and shower. <br/>We were able to park our car and motorbike in the parking bay. Just to note that there were some questions from other residents since our vehicles had non-GJ plates, and we had a little trouble getting back in at night after the security guard changed. It was ok once we clarified that we had already parked the car inside during the day and entered it into the guest book. I think it was related to the other residents asking about unfamiliar vehicles in the building so just useful to know while booking.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "The BnB is very nice and super comfortable, very affordable, is very clean and modern. Many things were automated which made use more appealing. Fantastic Place!!!!",
+                            "id": "1559969919691381698",
+                            "language": "en",
+                            "createdAt": "2025-11-22T08:21:45Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Akhil",
+                                "hostName": "Akhil",
+                                "id": "727593334",
+                                "contextualUserId": "1547561887335547949",
+                                "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=A&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                "profilePath": "/users/profile/1547561887335547949",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=A&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1547561887335547949"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "November 2025",
+                            "localizedRespondedDate": "November 2025",
+                            "localizedReviewerLocation": "5 months on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thank you very much for your wonderful review!<br/>pleasure to host you now and in near future.<br/>you were a fantastic guest!",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "The BnB is very nice and super comfortable, very affordable, is very clean and modern. Many things were automated which made use more appealing. Fantastic Place!!!!",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "The BnB is very nice and super comfortable, very affordable, is very clean and modern. Many things were automated which made use more appealing. Fantastic Place!!!!",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "A wonderful stay, along with 2 year Kid. <br/>place to joy, ample place for our kid in the flat.",
+                            "id": "1568720947169778281",
+                            "language": "en",
+                            "createdAt": "2025-12-04T10:08:29Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Aniket",
+                                "hostName": "Aniket",
+                                "id": "95392079",
+                                "contextualUserId": "1482995772344844835",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/af7f4013-2d86-45ba-afea-33e1483c858a.jpg",
+                                "profilePath": "/users/profile/1482995772344844835",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/af7f4013-2d86-45ba-afea-33e1483c858a.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1482995772344844835"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "December 2025",
+                            "localizedRespondedDate": "December 2025",
+                            "localizedReviewerLocation": "10 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": "Thanks Aniket for your review, we are glad to know that you liked the place and you had a comfortable stay",
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "A wonderful stay, along with 2 year Kid. <br/>place to joy, ample place for our kid in the flat.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "A wonderful stay, along with 2 year Kid. <br/>place to joy, ample place for our kid in the flat.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        },
+                        {
+                            "__typename": "PdpReviewForP3",
+                            "collectionTag": null,
+                            "comments": "Excellent stay, great property.",
+                            "id": "1654943052093145294",
+                            "language": "en",
+                            "createdAt": "2026-04-02T09:16:25Z",
+                            "responder": null,
+                            "reviewee": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Vaibhav",
+                                "hostName": "Vaibhav",
+                                "id": "222507651",
+                                "contextualUserId": "1463211704189145151",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                "profilePath": "/users/profile/1463211704189145151",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/dac8ab5d-aba9-4e0d-a76e-5e6916949d3e.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1463211704189145151"
+                                    }
+                                }
+                            },
+                            "reviewer": {
+                                "__typename": "ReviewUser",
+                                "deleted": false,
+                                "firstName": "Atin",
+                                "hostName": "Atin",
+                                "id": "503175926",
+                                "contextualUserId": "1490752446264982074",
+                                "pictureUrl": "https://a0.muscache.com/im/pictures/user/1d2cdc0d-625c-41bd-a05c-f8db652b423c.jpg",
+                                "profilePath": "/users/profile/1490752446264982074",
+                                "isSuperhost": false,
+                                "userProfilePicture": {
+                                    "__typename": "Image",
+                                    "baseUrl": "https://a0.muscache.com/im/pictures/user/1d2cdc0d-625c-41bd-a05c-f8db652b423c.jpg",
+                                    "onPressAction": {
+                                        "__typename": "NavigateToUserProfile",
+                                        "url": "/users/profile/1490752446264982074"
+                                    }
+                                }
+                            },
+                            "reviewHighlight": null,
+                            "highlightType": null,
+                            "localizedDate": "6 days ago",
+                            "localizedRespondedDate": null,
+                            "localizedReviewerLocation": "3 years on Airbnb",
+                            "localizedReview": null,
+                            "rating": 5,
+                            "ratingAccessibilityLabel": "Rating, 5 stars",
+                            "recommendedNumberOfLines": null,
+                            "response": null,
+                            "roomTypeListingTitle": null,
+                            "roomTypeListingId": null,
+                            "highlightedReviewSentence": [],
+                            "highlightReviewMentioned": null,
+                            "showMoreButton": {
+                                "__typename": "BasicListItem",
+                                "title": "Show more",
+                                "loggingEventData": {
+                                    "__typename": "LoggingEventData",
+                                    "loggingId": "pdp.reviews.readMore",
+                                    "experiments": [],
+                                    "eventData": null,
+                                    "eventDataSchemaName": null,
+                                    "section": null,
+                                    "component": null
+                                }
+                            },
+                            "subtitleItems": [],
+                            "channel": null,
+                            "reviewMediaItems": [],
+                            "isHostHighlightedReview": null,
+                            "reviewPhotoUrls": [],
+                            "commentV2": "Excellent stay, great property.",
+                            "localizedCommentV2": {
+                                "__typename": "LocalizedReview",
+                                "comments": "Excellent stay, great property.",
+                                "commentsLanguage": "en",
+                                "disclaimer": null,
+                                "needsTranslation": false,
+                                "response": null,
+                                "responseDisclaimer": null
+                            },
+                            "localizedPaidPromotionDisclaimer": null
+                        }
+                    ],
+                    "metadata": {
+                        "__typename": "PdpReviewsMetadata",
+                        "reviewsCount": 39,
+                        "modalSubtitle": null,
+                        "isReviewsSearchResults": null,
+                        "isReviewsHighlightTagResults": null,
+                        "isAutoTranslateOn": true,
+                        "endCursor": null,
+                        "experiments": [],
+                        "reviewTags": []
+                    }
+                }
+            }
+        }
+    },
+    "extensions": {
+        "traceId": "ua8QAUJ_ULWXwg_lMwfD0A=="
+    }
+}
