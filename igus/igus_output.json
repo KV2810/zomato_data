@@ -1,0 +1,216 @@
+{
+    "title": "iglidur® GLW, sleeve bearing, mm",
+    "query": {
+        "partno": "GLWSM-1012-10",
+        "categoryName": "iglidur-glw-m",
+        "shape": "sleeve-bearings"
+    },
+    "img": [
+        "https://igus.widen.net/content/pdvharn55l/web/pdvharn55l?quality=65",
+        "https://igus.widen.net/content/pjcxxtsqjs/web/pjcxxtsqjs?quality=65",
+        "https://igus.widen.net/content/3gdx021lgj/web/3gdx021lgj?quality=65"
+    ],
+    "singleUsp": "Cost-effective material for mass production",
+    "dimensions": {
+        "d1": 10,
+        "d2": 12,
+        "b1": 10
+    },
+    "manufacturing_method": "Injection moulding",
+    "material_properties": [
+        "Resistant to shocks and impacts",
+        "Resistant to dirt and dust",
+        "Resistant to high loads (>60N/mm²)",
+        "Fogging behaviour according to DIN 75201-B",
+        "Low-cost material for high-volume production"
+    ],
+    "quantity": 100,
+    "unit": "INR",
+    "totalPrice": 2040.0,
+    "unitPrice": 20.4,
+    "setupCost": 0,
+    "product_description": {
+        "iglidur® GLW | Low-cost material for large volumes": "With plain bearings made of the material iglidur® GLW, we can offer our customers an alternative to iglidur® G for large series applications. Featuring similar mechanical properties as iglidur® G, iglidur® GLW plain bearings are primarily recommended for static loads. These applications, where the properties of iglidur® G are unimportant to a degree , iglidur® GLW presents a cost-effective alternative."
+    },
+    "technical_data": [
+        {
+            "name": "dimensions",
+            "attributes": [
+                {
+                    "description": "Ø d1",
+                    "value": "10 mm"
+                },
+                {
+                    "description": "Ø d2",
+                    "value": "12 mm"
+                },
+                {
+                    "description": "b1",
+                    "value": "10 mm"
+                },
+                {
+                    "description": "Length of bevel (f1)",
+                    "value": "0.5 mm"
+                },
+                {
+                    "description": "Length of bevel (f2)",
+                    "value": "0 mm"
+                },
+                {
+                    "description": "Length of bevel (f3)",
+                    "value": "0 mm"
+                },
+                {
+                    "description": "Length of bevel (f4)",
+                    "value": "0.5 mm"
+                },
+                {
+                    "description": "Bevel angle (f1)",
+                    "value": "30 °"
+                },
+                {
+                    "description": "Bevel angle (f2)",
+                    "value": "0 °"
+                },
+                {
+                    "description": "Bevel angle (f3)",
+                    "value": "0 °"
+                },
+                {
+                    "description": "Bevel angle (f4)",
+                    "value": "30 °"
+                }
+            ]
+        },
+        {
+            "name": "manufacturing_and_installation_tolerances",
+            "attributes": [
+                {
+                    "description": "shaft",
+                    "value": "h9 (min: -0.0360 mm | max: 0.0000 mm)"
+                },
+                {
+                    "description": "d1",
+                    "value": "E10 (min: 0.0250 mm | max: 0.0830 mm)"
+                },
+                {
+                    "description": "b1",
+                    "value": "h13 (min: -0.2200 mm | max: 0.0000 mm)"
+                },
+                {
+                    "description": "d1 after press-fit",
+                    "value": "min: 10.0250 mm | max: 10.0830 mm"
+                }
+            ]
+        },
+        {
+            "name": "general_properties",
+            "attributes": [
+                {
+                    "description": "﻿Coefficient of sliding friction, dynamic, against steel",
+                    "value": "0,10 - 0,24 μ"
+                },
+                {
+                    "description": "pv value, max. (dry)",
+                    "value": "0.30 MPa · m/s"
+                },
+                {
+                    "description": "Radioactive radiation max.",
+                    "value": "3 ⋅ 10<sup>2</sup> Gy"
+                }
+            ]
+        },
+        {
+            "name": "mechanical_properties",
+            "attributes": [
+                {
+                    "description": "Max. recommended surface pressure",
+                    "value": "80 MPa"
+                },
+                {
+                    "description": "Maximum running speed, rotating, short-term",
+                    "value": "1 m/s"
+                },
+                {
+                    "description": "Pressure load",
+                    "value": "74 MPa"
+                },
+                {
+                    "description": "Maximum running speed, linear, continous",
+                    "value": "2.5 m/s"
+                },
+                {
+                    "description": "Maximum running speed, oscillating, continous",
+                    "value": "0.6 m/s"
+                },
+                {
+                    "description": "Maximum running speed, oscillating, short-term",
+                    "value": "0.7 m/s"
+                },
+                {
+                    "description": "Maximum running speed, rotating, continous",
+                    "value": "0.8 m/s"
+                },
+                {
+                    "description": "Maximum running speed, linear, short-term",
+                    "value": "3 m/s"
+                }
+            ]
+        },
+        {
+            "name": "requirements",
+            "attributes": [
+                {
+                    "description": "RoHS 2 compliant according to EU-Guideline 2011/65/EU",
+                    "value": true
+                },
+                {
+                    "description": "Detectable",
+                    "value": false
+                },
+                {
+                    "description": "Mould-free according to DIN EN ISO 846 Procedure A",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "name": "electricity_attributes",
+            "attributes": [
+                {
+                    "description": "Surface resistance",
+                    "value": "> 10<sup>11</sup> Ω, test method DIN 53482"
+                },
+                {
+                    "description": "Specific volume resistance",
+                    "value": "> 10<sup>11</sup> Ωcm, test method DIN IEC 93"
+                }
+            ]
+        },
+        {
+            "name": "thermal_attributes",
+            "attributes": [
+                {
+                    "description": "Max. temperature short",
+                    "value": "160 °C"
+                },
+                {
+                    "description": "Heat conductivity",
+                    "value": "0.24 W/m · K, Prüfmethode ASTM C 177"
+                },
+                {
+                    "description": "Thermal expansion coefficient (at 23°C/73°F)",
+                    "value": "17 K–1 · 10–5 DIN53752"
+                },
+                {
+                    "description": "Max. temperature long",
+                    "value": "100 °C"
+                },
+                {
+                    "description": "Lower application temperature",
+                    "value": "-40 °C"
+                }
+            ]
+        }
+    ]
+}

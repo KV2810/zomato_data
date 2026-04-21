@@ -1,0 +1,86 @@
+{
+    "media": {
+        "emsId": "a56be5b5-fd75-4569-aa98-f1a242f5ffe9",
+        "type": "movie",
+        "tomatometerScore": {
+            "state": "fresh",
+            "value": 73
+        },
+        "link": "/m/mother_mary",
+        "posterUrl": "https://resizing.flixster.com/g3qTY77pL1NozVm_amHyiAs-Np0=/206x305/v2/https://resizing.flixster.com/uQho2faU1Uf3OouLtjT7Wb75LEs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4YjdhYWYxLTMzNzktNGFlOC1hOWE5LTlhZGVjZmM1MDhhNi5qcGc=",
+        "title": "Mother Mary",
+        "showReportLink": true,
+        "useCursorPagination": true,
+        "vanity": "mother_mary",
+        "verifiedTooltip": {
+            "verifiedTooltipTop": "This person bought a ticket to see this movie.",
+            "verifiedTooltipTopLinkURL": "https://editorial.rottentomatoes.com/article/introducing-verified-audience-score/",
+            "verifiedTooltipTopLinkText": "Learn more",
+            "verifiedTooltipTopLinkVisible": true,
+            "verifiedTooltipBottom": "",
+            "verifiedTooltipBottomLinkURL": "",
+            "verifiedTooltipBottomLinkText": "",
+            "verifiedTooltipBottomVisible": false,
+            "verifiedTooltipBottomLinkVisible": false
+        },
+        "rating": "R",
+        "runTime": "1h 52m",
+        "directors": [
+            {
+                "name": "David Lowery",
+                "link": "/celebrity/david_lowery"
+            }
+        ],
+        "theaterReleaseDate": "Apr 24, 2026",
+        "productionCompanies": "A24, Homebird Productions, Sailor Bear Entertainment, Augenschein Filmproduktion",
+        "isPreRelease": false,
+        "prereleaseText": "There are no featured reviews for Mother Mary because the movie has not released yet (Apr 24, 2026).",
+        "genres": [
+            "Mystery & Thriller",
+            "Drama",
+            "Music"
+        ],
+        "genreDisplayName": "Mystery & Thriller, Drama, Music",
+        "releaseYear": "2026"
+    },
+    "reviewType": "all-critics",
+    "sidebar": [
+        {
+            "label": "Rating",
+            "value": "R"
+        },
+        {
+            "label": "Runtime",
+            "value": "1h 52m"
+        },
+        {
+            "label": "Genres",
+            "value": "Mystery & Thriller, Drama, Music"
+        },
+        {
+            "label": "Directed by",
+            "value": "<rt-link href=\"/celebrity/david_lowery\">David Lowery</rt-link>"
+        },
+        {
+            "label": "In Theaters",
+            "value": "Apr 24, 2026"
+        },
+        {
+            "label": "Production",
+            "value": "A24, Homebird Productions, Sailor Bear Entertainment, Augenschein Filmproduktion"
+        }
+    ],
+    "vanity": {
+        "emsId": "a56be5b5-fd75-4569-aa98-f1a242f5ffe9",
+        "href": "/m/mother_mary",
+        "lifecycleWindow": {
+            "date": "2026-04-24",
+            "lifecycle": "PRESALE_TICKETS"
+        },
+        "title": "Mother Mary",
+        "type": "movie",
+        "value": "mother_mary",
+        "parents": [],
+        "mediaType": "Movie"
+    }
+}
